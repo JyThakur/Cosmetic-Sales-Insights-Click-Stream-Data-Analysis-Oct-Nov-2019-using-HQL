@@ -1,0 +1,2 @@
+# Click-Stream-Data-CaseStudy-HQL
+Here, we have a dataset from an unknown online cosmetic selling company. It is 'Click Stream Data' which is collected by tracking visitor's clicks on the website and searching for patterns within them. The data is of October and November month of 2019 where we are trying to execute 8 questions using HQL (Hive Query Language) and generating some useful insights and patterns for the company to improve their sales. Also, we are trying to understand the profit and loss for both months.
